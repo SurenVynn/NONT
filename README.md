@@ -21,11 +21,11 @@ Using elementary mathematics, NONT visualizes the moral structure of agents and 
 
 ## 🗂️ Repository Structure
 nont-paper/
-├── main.tex # LaTeX source of the paper
-├── bibliography.bib # BibTeX references (optional; inline in main.tex by default)
-├── README.md # This file
-├── figures/ # Directory for any diagrams or TikZ exports (optional)
-└── nont-diagram.tex # TikZ source for network visualizations (optional)
+- main.tex # LaTeX source of the paper
+- bibliography.bib # BibTeX references (optional; inline in main.tex by default)
+- README.md # This file
+- figures/ # Directory for any diagrams or TikZ exports (optional)
+- nont-diagram.tex # TikZ source for network visualizations (optional)
 
 
 ---
