@@ -3,7 +3,7 @@
 This repository contains the full LaTeX source for the paper:
 
 **"Normative Obligation Network Theory (NONT): A Relational Model of Agency in Moral Space"**  
-_A formal and conceptual framework for modeling moral agents as nodes in a network of directed obligations._
+_A formal and conceptual framework for modeling moral agents as nodes in a network of directed obligations._ \
 I affectionately called this _The Shape of The Soul_.
 
 ---
